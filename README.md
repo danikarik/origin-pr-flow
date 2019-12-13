@@ -2,4 +2,4 @@
 
 ## Push from VSCode with commits
 
-## Push from Hub CLI
+## Push from Hub CLI with commits
